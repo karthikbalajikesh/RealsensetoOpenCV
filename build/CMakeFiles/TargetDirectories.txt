@@ -1,0 +1,4 @@
+/home/karthik/dev/RealsenseHelper/build/CMakeFiles/edit_cache.dir
+/home/karthik/dev/RealsenseHelper/build/CMakeFiles/rebuild_cache.dir
+/home/karthik/dev/RealsenseHelper/build/CMakeFiles/testlib.dir
+/home/karthik/dev/RealsenseHelper/build/CMakeFiles/check.dir
